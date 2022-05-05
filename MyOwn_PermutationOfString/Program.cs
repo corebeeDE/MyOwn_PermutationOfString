@@ -19,7 +19,7 @@ namespace MyOwn_PermutationOfString
         public static List<string> allPermutations = new List<string>();
 
         /// <summary>
-        /// Takes given char array and permutates all options.
+        /// Takes given string and permutates all options.
         /// </summary>
         /// <param name="inputString">String to be permutated.</param>
         /// <param name="helper">Helping variable.</param>
